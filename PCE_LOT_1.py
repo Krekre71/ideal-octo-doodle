@@ -9,7 +9,7 @@ st.set_page_config(page_title="PCE_MI",
                    layout="wide"
 )
 
-adresse = "https://github.com//Krekre71//ideal-octo-doodle//CW2020_ExportACV_Version 1-Maison individuelle_2022.xlsx"
+adresse = "https://github.com/Krekre71/ideal-octo-doodle/CW2020_ExportACV_Version 1-Maison individuelle_2022.xlsx"
 
 df_read = pd.read_excel(adresse,
                    engine='openpyxl',
