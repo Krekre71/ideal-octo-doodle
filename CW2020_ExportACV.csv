@@ -1,0 +1,165 @@
+Batiment ou Zone;Lot;Sous-Lot;Libellé;Id Fiche;Nature des données;Quantité;Unité fonctionnelle;Durée de vie;Taux de renouvellement;DE Total (kgeqCO2);DE Bénéf. charges hors cycle (kgeqCO2); Total kgeqCO2; kgeqCO2 par m²
+Maison individuelle;1;1;Gaine Telecom Ø 40 verte compris av;13750;DED (par défaut);26,0;mL;50;1,00;26,9;0,0;659,7;8,3
+Maison individuelle;1;1;Gaine Telecom Ø 40 pour fibre optiq;13750;DED (par défaut);26,0;mL;50;1,00;26,9;0,0;659,7;8,3
+Maison individuelle;1;1;Gaine EDF Ø 90 rouge et sortie noir;13750;DED (par défaut);26,0;mL;50;1,00;26,9;0,0;659,7;8,3
+Maison individuelle;1;1;Tuyau PVC 125 CR8 Eaux Usées;10623;FDES collective;14,0;m;100;1,00;2,8;0,0;39,4;0,5
+Maison individuelle;1;1;Tuyau PVC 125 CR8 Eaux Pluviales;10623;FDES collective;3,0;m;100;1,00;2,8;0,0;8,4;0,1
+Maison individuelle;1;1;Regard EP EU;26924;FDES collective;2,0;U.;100;1,00;228,0;0,0;516,9;6,5
+Maison individuelle;1;1;Canalisations EU Ø100 PVC NF posées;10623;FDES collective;28,0;m;100;1,00;2,8;0,0;78,7;1,0
+Maison individuelle;1;1;Gaine Ø 90 rouge en vide sanitaire;13750;DED (par défaut);7,0;mL;50;1,00;26,9;0,0;177,6;2,2
+Maison individuelle;1;1;TOTAL SOUS-LOT;;;;;;;;;2800,2;35,2
+Maison individuelle;1;;TOTAL LOT;;;;;;;;;2800,2;35,2
+Maison individuelle;2;1;LONGRINE  20*20 sous plancher;12458;FDES collective;24,0;m;100;1,00;29,0;-1,1;707,2;8,9
+Maison individuelle;2;1;Béton cyclopéen XC1  C20/25;11024;FDES collective;21,0;m3;100;1,00;275,2;-14,2;5689,2;71,6
+Maison individuelle;2;1;Dallage 12 cm béton sur 15 cm pierr;27741;FDES individuelle;61,0;m²;50;1,00;31,2;-0,2;1883,8;23,7
+Maison individuelle;2;1;Arase sanitaire;6396;DED (par défaut);33,0;m²;30;1,67;3,3;0,0;152,9;1,9
+Maison individuelle;2;1;TOTAL SOUS-LOT;;;;;;;;;8433,2;106,1
+Maison individuelle;2;2;Agglo 20 cm (VS);26903;FDES collective;16,0;m²;100;1,00;13,2;-0,4;252,5;3,2
+Maison individuelle;2;2;Poteaux raidisseurs (VS/Sous-sol);18615;FDES collective;1,0;m;100;1,00;21,2;-1,3;21,2;0,3
+Maison individuelle;2;2;Poteaux porteurs 20x20 (VS/Sous-sol;18615;FDES collective;8,0;m;100;1,00;21,2;-1,3;170,0;2,1
+Maison individuelle;2;2;Ventilation vide sanitaire PVC Ø 10;11169;DED (par défaut);7,0;U.;17;2,94;13,5;0,0;240,4;3,0
+Maison individuelle;2;2;Delta MS (VS);5719;DED (par défaut);13,0;m²;60;1,00;10,5;0,0;129,4;1,6
+Maison individuelle;2;2;Delta MS (contre crépis ou sur banc;5719;DED (par défaut);9,0;m²;60;1,00;10,5;0,0;89,6;1,1
+Maison individuelle;2;2;TOTAL SOUS-LOT;;;;;;;;;903,0;11,4
+Maison individuelle;2;;TOTAL LOT;;;;;;;;;9336,2;117,5
+Maison individuelle;3;1;Béton armé pour dalle de compression, C2530 XC1XC2 CEM IIA;24257;FDES collective;4,0;m3;100;1,00;234,1;-8,2;923,4;11,6
+Maison individuelle;3;1;12+5 UP 0,23 M4 Rupteurs totaux;25928;FDES individuelle;92,0;m²;100;1,00;10,2;0,0;940,4;11,8
+Maison individuelle;3;1;TOTAL SOUS-LOT;;;;;;;;;1863,7;23,5
+Maison individuelle;3;2;Poutrelle en béton précontaint (hauteur = 12 cm);16393;FDES collective;157,0;m;100;1,00;2,9;0,0;482,0;6,1
+Maison individuelle;3;2;Poutre industrielle 20*20 (Vs Sous-;12459;FDES collective;12,0;m;100;1,00;18,2;-1,2;219,7;2,8
+Maison individuelle;3;2;Linteau béton armé;12459;FDES collective;24,0;m;100;1,00;18,2;-1,2;439,3;5,5
+Maison individuelle;3;2;Poutre coffrée hors 20x20;11068;FDES collective;1,0;m3;100;1,00;204,8;-5,3;213,1;2,7
+Maison individuelle;3;2;TOTAL SOUS-LOT;;;;;;;;;1354,1;17,0
+Maison individuelle;3;3;brique OPTIBRIC BGV3+ (Rdc);30534;FDES individuelle;127,0;m²;100;1,00;20,3;-0,2;2493,2;31,4
+Maison individuelle;3;3;brique OPTIBRIC BGV3+ (Combles);30534;FDES individuelle;50,0;m²;100;1,00;20,3;-0,2;981,6;12,4
+Maison individuelle;3;3;Poteaux raidisseurs;18615;FDES collective;39,0;m;100;1,00;21,2;-1,3;828,5;10,4
+Maison individuelle;3;3;Poteaux porteurs 20x20;18615;FDES collective;5,0;m;100;1,00;21,2;-1,3;106,2;1,3
+Maison individuelle;3;3;Chaînage (RDC);18615;FDES collective;53,0;m;100;1,00;21,2;-1,3;1126,0;14,2
+Maison individuelle;3;3;Chaînage rampant pignon;18615;FDES collective;32,0;m;100;1,00;21,2;-1,3;679,8;8,6
+Maison individuelle;3;3;TOTAL SOUS-LOT;;;;;;;;;6215,4;78,2
+Maison individuelle;3;8;Seuil de portail ou porte de servic;8709;DED (par défaut);5,0;mL;50;1,00;42,1;0,0;192,2;2,4
+Maison individuelle;3;8;Appuis ou seuil;13345;DED (par défaut);11,0;mL;50;1,00;36,0;0,0;348,6;4,4
+Maison individuelle;3;8;TOTAL SOUS-LOT;;;;;;;;;540,8;6,8
+Maison individuelle;3;;TOTAL LOT;;;;;;;;;9974,0;125,5
+Maison individuelle;4;2;F fermette 80%  4 pentes aménageabl;27248;FDES collective;2,0;m3;100;1,00;114,0;-153,0;-464,1;-5,8
+Maison individuelle;4;2;Pose fermette aménageable;27248;FDES collective;2,0;m3;100;1,00;114,0;-153,0;-464,1;-5,8
+Maison individuelle;4;2;F+P planche de rive en PVC blanche;26645;DED (par défaut);27,0;m;50;1,00;13,4;0,0;354,9;4,5
+Maison individuelle;4;2;F+P avant toit en PVC blanc;26645;DED (par défaut);13,0;m;50;1,00;13,4;0,0;170,9;2,2
+Maison individuelle;4;2;Tuile ALPHA 10 chevreuse ou ardoise;29820;FDES collective;218,0;m²;100;1,00;13,8;-2,4;2684,2;33,8
+Maison individuelle;4;2;Faîtage ALPHA 10;29820;FDES collective;23,0;m²;100;1,00;13,8;-2,4;283,2;3,6
+Maison individuelle;4;2;Rives ALPHA 10;29820;FDES collective;35,0;m²;100;1,00;13,8;-2,4;430,9;5,4
+Maison individuelle;4;2;About de faîtage ALPHA 10;29820;FDES collective;3,0;m²;100;1,00;13,8;-2,4;36,9;0,5
+Maison individuelle;4;2;Ventilation diamètre 100 ALPHA 10;26251;DED (par défaut);1,0;U.;20;2,50;91,5;0,0;198,3;2,5
+Maison individuelle;4;2;Ventilation diamètre 160 ALPHA 10;26251;DED (par défaut);1,0;U.;20;2,50;91,5;0,0;198,3;2,5
+Maison individuelle;4;2;F+P Film armé micro perforé et cont;5799;DED (par défaut);218,0;m²;50;1,00;15,1;0,0;3279,6;41,3
+Maison individuelle;4;2;Noue en zinc compris coupes tuiles;8778;DED (par défaut);14,0;mL;20;2,50;9,2;0,0;278,0;3,5
+Maison individuelle;4;2;VENTELIA universelle tuile diam 160;26251;DED (par défaut);1,0;U.;20;2,50;91,5;0,0;198,3;2,5
+Maison individuelle;4;2;Elément coude 45° Ø 150 Noir;29110;FDES collective;1,0;m;50;1,00;80,0;-4,6;66,8;0,8
+Maison individuelle;4;2;Elément droit Ø 150 de 95 cm Noir;29110;FDES collective;1,0;m;50;1,00;80,0;-4,6;66,8;0,8
+Maison individuelle;4;2;Elément droit Ø 150 de 115 cm Noir;29110;FDES collective;1,0;m;50;1,00;80,0;-4,6;66,8;0,8
+Maison individuelle;4;2;Elément droit Ø 150 de 10 cm inox;29110;FDES collective;1,0;m;50;1,00;80,0;-4,6;66,8;0,8
+Maison individuelle;4;2;Elément droit Ø 150 de 45 cm inox;29110;FDES collective;1,0;m;50;1,00;80,0;-4,6;66,8;0,8
+Maison individuelle;4;2;Elément droit Ø 150 de 95 cm inox;29110;FDES collective;1,0;m;50;1,00;80,0;-4,6;66,8;0,8
+Maison individuelle;4;2;Elément droit Ø 150 de 115 cm inox;29110;FDES collective;1,0;m;50;1,00;80,0;-4,6;66,8;0,8
+Maison individuelle;4;2;TOTAL SOUS-LOT;;;;;;;;;7652,8;96,3
+Maison individuelle;4;3;Gouttière aluminium G300 sur bandea;21826;FDES individuelle;27,0;m;50;1,00;7,2;-2,2;159,9;2,0
+Maison individuelle;4;3;Réseaux d'évacuation d'eaux pluviales en limite de bâtiment en aluminium [diam. gouttière 153mm et diam. descente 100m] - DONNEE ENVIRONNEMENTALE PAR DEFAUT;8570;DED (par défaut);15,0;mL;50;1,00;18,2;0,0;271,3;3,4
+Maison individuelle;4;3;TOTAL SOUS-LOT;;;;;;;;;431,3;5,4
+Maison individuelle;4;;TOTAL LOT;;;;;;;;;8084,0;101,7
+Maison individuelle;5;1;Porte postformé iso 73 x 204 DP;29144;FDES collective;1,0;m²;30;1,67;150,1;0,0;215,2;2,7
+Maison individuelle;5;1;Porte postformé 83 x 204 DP;29142;FDES collective;1,0;m²;30;1,67;11,4;0,0;11,9;0,2
+Maison individuelle;5;1;Porte postformé 83 x 204 GP;29142;FDES collective;3,0;m²;30;1,67;11,4;0,0;35,8;0,5
+Maison individuelle;5;1;Pregyplac BA 13, Dimension 250 x 12;27408;FDES individuelle;156,0;m²;50;1,00;3,7;0,0;556,0;7,0
+Maison individuelle;5;1;Pregyplac BA 13, Dimension 260 x 12;27408;FDES individuelle;184,0;m²;50;1,00;3,7;0,0;655,8;8,3
+Maison individuelle;5;1;Pregyflam STD BA 13, Dimension 250;27408;FDES individuelle;3,0;m²;50;1,00;3,7;0,0;10,7;0,1
+Maison individuelle;5;1;Pregydro BA 13, Dimension 260 x 120;27408;FDES individuelle;46,0;m²;50;1,00;3,7;0,0;164,0;2,1
+Maison individuelle;5;1;Pregydro BA 13, DIAMANT (Hydrofuge);27408;FDES individuelle;6,0;m²;50;1,00;3,7;0,0;21,4;0,3
+Maison individuelle;5;1;TOTAL SOUS-LOT;;;;;;;;;1670,7;21,0
+Maison individuelle;5;2;SUPAFIL LOFT 045 R=10.00, e=450mm;29247;FDES individuelle;147,0;m²;50;1,00;1,0;0,0;151,8;1,9
+Maison individuelle;5;2;Ldv URSACOUSTIC 45 R=1.10;6193;FDES individuelle;58,0;m²;50;1,00;0,9;0,0;54,3;0,7
+Maison individuelle;5;2;Ldv URSA PRK32 101 R=3.15;6192;FDES individuelle;63,0;m²;50;1,00;3,8;0,0;240,5;3,0
+Maison individuelle;5;2;Ldv URSA PRK32 140 R=4.35;24337;FDES individuelle;25,0;m²;50;1,00;4,1;0,0;102,8;1,3
+Maison individuelle;5;2;TMS56SI EFFISOL R=2,60;12901;FDES individuelle;85,0;m²;50;1,00;6,7;0,0;554,0;7,0
+Maison individuelle;5;2;TOTAL SOUS-LOT;;;;;;;;;1103,3;13,9
+Maison individuelle;5;3;Rail de 48 6/10ème acier 48 x 30  l;26083;FDES individuelle;45,0;m;50;1,00;1,3;-0,6;44,0;0,6
+Maison individuelle;5;3;Montant 48 x 35 Longueur : 2,60 ml;26083;FDES individuelle;156,0;m;50;1,00;1,3;-0,6;152,4;1,9
+Maison individuelle;5;3;Rail de 150 x 50  Longueur : 3,00 m;26038;FDES individuelle;30,0;m;50;1,00;3,2;0,0;95,1;1,2
+Maison individuelle;5;3;Montant 150 x 50 Longueur : 2.60 ml;26038;FDES individuelle;78,0;m;50;1,00;3,2;0,0;247,4;3,1
+Maison individuelle;5;3;Fourure S47 6/10E  5.30ml  (Paquet;26031;FDES individuelle;371,0;m;50;1,00;1,2;-0,5;332,2;4,2
+Maison individuelle;5;3;Fourure S47 6/10E  2.70ml  (Paquet;26031;FDES individuelle;162,0;m;50;1,00;1,2;-0,5;145,0;1,8
+Maison individuelle;5;3;Suspente P 21 (2-14) (Boite de 50);8233;FDES individuelle;350,0;U.;50;1,00;0,4;0,0;144,8;1,8
+Maison individuelle;5;3;Appui OPTIMA II en 100 (Boite de 50;8230;FDES individuelle;100,0;U.;50;1,00;0,4;0,0;39,3;0,5
+Maison individuelle;5;3;Trappe combles bois isolé étanche b;29148;FDES collective;1,0;m²;30;1,67;150,3;0,0;220,2;2,8
+Maison individuelle;5;3;TOTAL SOUS-LOT;;;;;;;;;1420,5;17,9
+Maison individuelle;5;;TOTAL LOT;;;;;;;;;4194,5;52,8
+Maison individuelle;6;1;Enduit ext MONOCOUCHE GRATTE;29656;FDES collective;212,0;m²;50;1,00;5,7;0,0;1175,8;14,8
+Maison individuelle;6;1;TOTAL SOUS-LOT;;;;;;;;;1175,8;14,8
+Maison individuelle;6;2;Double vitrage de sécurité avec deux faces en verre feuilleté, à isolation thermique renforcée avec ou sans protection solaire : - sans isolation acoustique renforcée : CLIMAPLUS PROTECT - avec isolation acoustique renforcée : CLIMAPLUS PROTECT SILENCE Co;29062;FDES individuelle;1,0;m²;30;1,67;54,3;0,0;81,4;1,0
+Maison individuelle;6;2;SOUF ALU COUL 120 x 75;10882;FDES collective;1,0;m²;30;1,67;78,0;-16,1;98,8;1,2
+Maison individuelle;6;2;FA2 ALU COUL 120 x 125;10884;FDES collective;1,0;m²;30;1,67;78,1;-16,5;98,2;1,2
+Maison individuelle;6;2;OB1 ALU COUL 80 x 95;10884;FDES collective;1,0;m²;30;1,67;78,1;-16,5;98,2;1,2
+Maison individuelle;6;2;BC2R 2V ALU COUL 120 x 105;10884;FDES collective;1,0;m²;30;1,67;78,1;-16,5;98,2;1,2
+Maison individuelle;6;2;BC2R 2V ALU COUL 140 x 75;10884;FDES collective;1,0;m²;30;1,67;78,1;-16,5;98,2;1,2
+Maison individuelle;6;2;BC2R 2V ALU COUL 180 x 205;10884;FDES collective;3,0;m²;30;1,67;78,1;-16,5;294,7;3,7
+Maison individuelle;6;2;BC2R 2V ALU COUL 220 x 205;10884;FDES collective;4,0;m²;30;1,67;78,1;-16,5;392,9;4,9
+Maison individuelle;6;2;PORTE D'ENTREE ALU ou ACIER Bicolor;29436;FDES individuelle;1,0;m²;30;1,67;343,2;-69,6;440,0;5,5
+Maison individuelle;6;2;PORTE DE SERVICE acier/alu 90 x 215;29436;FDES individuelle;1,0;m²;30;1,67;343,2;-69,6;440,0;5,5
+Maison individuelle;6;2;VR 1/2L ALU COUL 120 x 105;27014;FDES collective;1,0;m²;30;1,67;193,0;-48,5;201,8;2,5
+Maison individuelle;6;2;VR 1/2L ALU COUL 120 x 125;27014;FDES collective;1,0;m²;30;1,67;193,0;-48,5;201,8;2,5
+Maison individuelle;6;2;VR 1/2L ALU COUL 140 x 75;27014;FDES collective;1,0;m²;30;1,67;193,0;-48,5;201,8;2,5
+Maison individuelle;6;2;VR 1/2L ALU COUL 180 x 205;27014;FDES collective;3,0;m²;30;1,67;193,0;-48,5;605,4;7,6
+Maison individuelle;6;2;VR 1/2L ALU COUL 220 x 205;27014;FDES collective;4,0;m²;30;1,67;193,0;-48,5;807,2;10,2
+Maison individuelle;6;2;FIXE ALU COUL 50 x 75;10884;FDES collective;1,0;m²;30;1,67;78,1;-16,5;98,2;1,2
+Maison individuelle;6;2;VR 1/2L ALU COUL 100 x 125;27014;FDES collective;1,0;m²;30;1,67;193,0;-48,5;201,8;2,5
+Maison individuelle;6;2;SECT iso 45 500 x 212 BLANC;27021;FDES collective;10,0;m²;30;1,67;275,0;-41,4;3222,2;40,6
+Maison individuelle;6;2;TOTAL SOUS-LOT;;;;;;;;;7681,0;96,7
+Maison individuelle;6;;TOTAL LOT;;;;;;;;;8856,9;111,5
+Maison individuelle;7;1;Mortier colle sac de 25 kg;8467;DED (par défaut);22,0;m²;50;1,00;5,1;0,0;112,0;1,4
+Maison individuelle;7;1;F carrelage 45*45 ou 30*60 36€ttc p;29172;DED (par défaut);91,0;m²;50;1,00;32,8;0,0;2855,7;35,9
+Maison individuelle;7;1;F plinthe 14€ ttc public;26971;DED (par défaut);79,0;m;30;1,67;4,8;0,0;552,9;7,0
+Maison individuelle;7;1;Chape fluide CIMENT;12450;FDES collective;80,0;m²;50;1,00;12,5;-0,2;1065,7;13,4
+Maison individuelle;7;1;TOTAL SOUS-LOT;;;;;;;;;4586,3;57,7
+Maison individuelle;7;2;Peinture glycéro portes 73 x 204;13231;DED (par défaut);1,0;m²;10;5,00;2,1;0,0;8,7;0,1
+Maison individuelle;7;2;Peinture glycéro portes 83 x 204;13231;DED (par défaut);5,0;m²;10;5,00;2,1;0,0;43,3;0,5
+Maison individuelle;7;2;Peinture glycéro Trappe de visite c;13231;DED (par défaut);1,0;m²;10;5,00;2,1;0,0;8,7;0,1
+Maison individuelle;7;2;Peinture en 2 couches hz Rdc;30343;FDES collective;79,0;m²;10;5,00;1,3;0,0;427,6;5,4
+Maison individuelle;7;2;Peinture 2 couches murs;30343;FDES collective;184,0;m²;10;5,00;1,3;0,0;995,9;12,5
+Maison individuelle;7;2;TOTAL SOUS-LOT;;;;;;;;;1484,2;18,7
+Maison individuelle;7;3;F faïence 36€ ttc public;13549;DED (par défaut);20,0;m²;50;1,00;15,5;0,0;308,2;3,9
+Maison individuelle;7;3;TOTAL SOUS-LOT;;;;;;;;;308,2;3,9
+Maison individuelle;7;;TOTAL LOT;;;;;;;;;6378,6;80,3
+Maison individuelle;8;1;ALFEA EXTENSA DUO AI 5 526210;29213;PEP individuel;1,0;U.;17;2,94;8754,7;0,0;5495,0;69,2
+Maison individuelle;8;1;TOTAL SOUS-LOT;;;;;;;;;5495,0;69,2
+Maison individuelle;8;3;Sèche serviette RIVA 4 750W;30674;PEP individuel;1,0;kW;17;2,94;178,4;0,0;449,7;5,7
+Maison individuelle;8;3;Fourniture plancher chauffant;29782;FDES collective;80,0;m²;50;1,00;19,9;0,0;1804,1;22,7
+Maison individuelle;8;3;Robinet Arrêt 1/4;14208;DED (par défaut);1,0;U.;25;2,00;2,8;0,0;5,0;0,1
+Maison individuelle;8;3;TOTAL SOUS-LOT;;;;;;;;;2258,9;28,4
+Maison individuelle;8;4;Groupe vmc hygro ATLANTIC avec gain;8595;PEP collectif;1,0;U.;17;2,94;609,3;0,0;96,1;1,2
+Maison individuelle;8;4;Détecteur de fumée autonome;5575;DED (par défaut);1,0;U.;10;5,00;4,6;0,0;19,2;0,2
+Maison individuelle;8;4;TOTAL SOUS-LOT;;;;;;;;;115,3;1,5
+Maison individuelle;8;5;Bouche d'extraction VMC;5609;DED (par défaut);1,0;U.;17;2,94;2,6;0,0;6,5;0,1
+Maison individuelle;8;5;Conduit VMC;13514;DED (par défaut);30,0;mL;15;3,33;1,7;0,0;144,3;1,8
+Maison individuelle;8;5;Bouche Hygro B Cuisine HC5 compris;5609;DED (par défaut);1,0;U.;17;2,94;2,6;0,0;6,5;0,1
+Maison individuelle;8;5;Bouche Hygro B Bains HB3;5609;DED (par défaut);1,0;U.;17;2,94;2,6;0,0;6,5;0,1
+Maison individuelle;8;5;Bouche Hygro B Wc TW compris pile;5609;DED (par défaut);1,0;U.;17;2,94;2,6;0,0;6,5;0,1
+Maison individuelle;8;5;Entrée d'air Hygro B Blanches ou No;5607;DED (par défaut);2,0;U.;17;2,94;1,2;0,0;5,9;0,1
+Maison individuelle;8;5;TOTAL SOUS-LOT;;;;;;;;;176,1;2,2
+Maison individuelle;8;;TOTAL LOT;;;;;;;;;8045,3;101,3
+Maison individuelle;9;1;Mitigeur douche et bain douche > 2,5 kg;26158;FDES individuelle;1,0;U.;16;3,13;68,8;-9,5;154,6;1,9
+Maison individuelle;9;1;Mitigeur - Evier;30692;DED (par défaut);2,0;U.;12;4,17;104,9;0,0;706,6;8,9
+Maison individuelle;9;1;Siphon lavabo;29390;DED (par défaut);2,0;U.;20;2,50;6,6;0,0;28,4;0,4
+Maison individuelle;9;1;F+P Vasque double;14203;FDES collective;1,0;U.;20;2,50;74,6;0,0;161,8;2,0
+Maison individuelle;9;1;F+P Evier;28731;DED (par défaut);2,0;U.;20;2,50;64,7;0,0;277,4;3,5
+Maison individuelle;9;1;Kit WC;14204;FDES collective;1,0;U.;20;2,50;141,6;0,0;297,8;3,7
+Maison individuelle;9;1;Kit LAVABO DOUBLE;14203;FDES collective;1,0;U.;20;2,50;74,6;0,0;161,8;2,0
+Maison individuelle;9;1;WC CIRY sur pied compris cuvette ri;14204;FDES collective;1,0;U.;20;2,50;141,6;0,0;297,8;3,7
+Maison individuelle;9;1;Receveur Quadro Vulcano 90x120;14202;FDES collective;1,0;U.;20;2,50;92,6;0,0;201,1;2,5
+Maison individuelle;9;1;Bonde Receuveur 90 DN40;14202;FDES collective;1,0;U.;20;2,50;92,6;0,0;201,1;2,5
+Maison individuelle;9;1;Thermo GROHE douche cosmo 800;26157;FDES individuelle;1,0;U.;16;3,13;56,2;-4,9;130,8;1,6
+Maison individuelle;9;1;Ensemble GROHE douche tempesta 2 je;26157;FDES individuelle;1,0;U.;16;3,13;56,2;-4,9;130,8;1,6
+Maison individuelle;9;1;TOTAL SOUS-LOT;;;;;;;;;2750,0;34,6
+Maison individuelle;9;2;Tuyau PER [diamètre extérieur = 16 à 25 mm];16267;DED (par défaut);18,0;mL;50;1,00;1,6;0,0;29,1;0,4
+Maison individuelle;9;2;TOTAL SOUS-LOT;;;;;;;;;29,1;0,4
+Maison individuelle;9;;TOTAL LOT;;;;;;;;;2779,1;35,0
+Maison individuelle;10;;LOT FORFAITAIRE;;;;;;;;;7786,1;98,0
+Maison individuelle;11;;LOT FORFAITAIRE;;;;;;;;;158,6;2,0
