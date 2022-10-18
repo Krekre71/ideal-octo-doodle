@@ -9,7 +9,7 @@ st.set_page_config(page_title="PCE_MI",
                    layout="wide"
 )
 
-adresse = "C:\\Users\\Jean-David\\OneDrive\\Bureau\\Python\\CSV PANDAS\\CSV CW2020\\CW2020_ExportACV_Version 1-Maison individuelle_2022.xlsx"
+adresse = "CSV CW2020\\CW2020_ExportACV_Version 1-Maison individuelle_2022.xlsx"
 
 df_read = pd.read_excel(adresse,
                    engine='openpyxl',
